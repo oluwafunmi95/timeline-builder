@@ -1,0 +1,157 @@
+{
+	"title": {
+		"media": {
+			"url": "https://www.castingcrowns.com/",
+			"caption": "Casting crowns team in the church auditorium",
+			"credit": "flickr/<a href='https://www.castingcrowns.com/dist/img/Main%20Press%20-%20Casting%20Crowns.jpg'></a>"
+		},
+		"text": {
+			"headline": "Casting Crowns<br/> 2003",
+			"text": "<p>Casting Crowns is a contemporary Christian and Christian rock band started in 1999 by youth pastor Mark Hall, who serves as the band's lead vocalist, as part of a youth group at First Baptist Church in Downtown Daytona Beach, Florida. They later moved to Stockbridge, Georgia, and more members joined. Some members of the band currently work as ministers for Eagle's Landing First Baptist Church in McDonough, Georgia. The band has won a Grammy and a Dove Award.</p>"
+		}
+	},
+		"events": [
+		{
+			"media": {
+				"url": "https://g.co/kgs/M7yW466",
+				"caption": "Casting Crowns released their first album in 2003.",
+				"credit": "Album photo:<a href='https://upload.wikimedia.org/wikipedia/en/c/c9/Castingcrowns.jpg'>Album Photo</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+			},
+			"start_date": {
+				"month": "10",
+				"day": "7",
+				"year": "2003"
+			},
+			"text": {
+				"headline": "Casting Crown",
+				"text": "<p>Casting Crowns is the first studio album by American Christian rock band Casting Crowns.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://g.co/kgs/yyX3hC6",
+				"caption": "",
+				"credit": "<a href=\"https://upload.wikimedia.org/wikipedia/en/7/7e/Lifesong-album-art.jpg\">2nd Album</a>"
+			},
+			"start_date": {
+				"year": "2005"
+			},
+			"text": {
+				"headline": "Lifesong",
+				"text": "Lifesong is the second studio album by American Christian rock band Casting Crowns."
+			}
+		},
+		{
+			"media": {
+				"url": "https://g.co/kgs/wVvQsyK",
+				"caption": "The Altar and the Door is the third studio album by American Christian rock band Casting Crowns.",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"year": "2007"
+			},
+			"text": {
+				"headline": "The Altar and The Door",
+				"text": "The Altar and the Door is the third studio album by American Christian rock band Casting Crowns."
+			}
+		},
+		{
+			"media": {
+				"url": "hhttps://g.co/kgs/reS5NK1",
+				"caption": "Until the Whole World Hears is the fourth studio album by American Christian rock band Casting Crowns",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"year": "2009"
+			},
+			"text": {
+				"headline": "Until the Whole World Hears",
+				"text": "Until the Whole World Hears is the fourth studio album by American Christian rock band Casting Crowns."
+			}
+		},
+		{
+			"media": {
+				"url": "https://g.co/kgs/PCWubUa",
+				"caption": "Come to the Well is the fifth studio album by American contemporary Christian band Casting Crowns.",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"year": "2011"
+			},
+			"text": {
+				"headline": "Come to the Well",
+				"text": "Come to the Well is the fifth studio album by American contemporary Christian band Casting Crowns."
+			}
+		},
+		{
+			"media": {
+				"url": "https://g.co/kgs/E2z4AEW",
+				"caption": "Thrive (stylized as THRIVE) is the sixth studio album by American contemporary Christian music band Casting Crowns.",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"year": "2014"
+			},
+			"text": {
+				"headline": "THRIVE",
+				"text": "Thrive (stylized as THRIVE) is the sixth studio album by American contemporary Christian music band Casting Crowns.'"
+			}
+		},
+		{
+			"media": {
+				"url": "https://g.co/kgs/Y4zabnu",
+				"caption": "The Very Next Thing is the seventh studio album by American Christian rock band Casting Crowns.",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"year": "2016"
+			},
+			"text": {
+				"headline": "The Very Next Thing",
+				"text": "The Very Next Thing is the seventh studio album by American Christian rock band Casting Crowns."
+			}
+		},
+		{
+			"media": {
+				"url": "https://g.co/kgs/DRA4rVL",
+				"caption": "Only Jesus is the eight studio album by American Christian rock band Casting Crowns",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"year": "2018"
+			},
+			"text": {
+				"headline": "Only Jesus",
+				"text": "Only Jesus is the eight studio album by American Christian rock band Casting Crowns."
+			}
+		},
+		{
+			"media": {
+				"url": "https://g.co/kgs/3PVQ1Tu",
+				"caption": "Healer is the ninth studio album by American Christian rock band Casting Crowns",
+				"credit": "Wikipedia"
+			},
+			"start_date": {
+				"year": "2022"
+			},
+			"text": {
+				"headline": "Healer",
+				"text": "Healer is the ninth studio album by American Christian rock band Casting Crowns."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1989"
+			},
+			"text": {
+				"headline": "Bobby Brown",
+				"text": "Houston and Brown first meet at the Soul Train Music Awards. In an interview with Rolling Stone Magazine, Houston admitted that it was not love at first sight. She turned down Brown's first marriage proposal but eventually fell in love with him."
+			}
+		}
+	]
+}
